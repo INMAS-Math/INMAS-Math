@@ -21,7 +21,7 @@ Along these three principal activities:
 3) And by facilitating successful internship opportunities that will be beneficial to both the hosting organizations and graduate students.
 
 # Why do students participate in the INMAS program?
-This world cloud was formed from the essays that students write when applying to the INMAS program. Our acceptance rate is about 50%.
+This word cloud was formed from the essays that students write when applying to the INMAS program. Our acceptance rate is about 50%.
 
 ![image](https://github.com/INMAS-Math/INMAS-Math/assets/145806327/4eee271e-d847-445f-ab82-3756616082d3)
 
