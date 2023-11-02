@@ -10,7 +10,7 @@ and with a passion for diversity, equity, and inclusion.
 # Why INMAS?
 Doctorate programs in many disciplines often do not provide role models beyond being research academicians, and many scientific graduate programs lack a practical view of the talent demand from the business, industry, and government sectors.
 
-But most Ph.D. students end up working in the business, industry, and government sectors.
+But most Ph.D. students end up working in the business, industry, and government sectors with little to no support to find their own career path.
 
 Therefore, the INMAS initiative was proposed to address this issue by providing additional professional training and an industrial internship program for graduate students.
 
