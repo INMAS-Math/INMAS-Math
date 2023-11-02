@@ -1,4 +1,6 @@
-INMAS mission is to provide high-quality training and internship experiences that broaden career opportunities for students in the Mathematical Sciences.
+# Our Mission
+INMAS is to provide high-quality training and internship experiences that broaden career opportunities for students in the Mathematical Sciences.
+
 This program is supported by NSF.
 
 
