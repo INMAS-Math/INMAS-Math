@@ -1,4 +1,8 @@
-### Hi there 👋
+INMAS mission is to provide high-quality training and internship experiences that broaden career opportunities for students in the Mathematical Sciences.
+This program is supported by NSF.
+
+
+### Encouragements to our third Cohort 👋
 
 <!--
 **INMAS-Math/INMAS-Math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
