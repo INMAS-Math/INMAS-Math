@@ -8,7 +8,7 @@ INMAS is a network of universities, businesses, industries, and organizations wi
 and with a passion for diversity, equity, and inclusion.
 
 # Why INMAS?
-Doctorate programs in many disciplines often do not provide role models beyond being research academicians, and many scientific graduate programs lack a practical view of the talent demand from the business, industry, and government sectors.B
+Doctorate programs in many disciplines often do not provide role models beyond being research academicians, and many scientific graduate programs lack a practical view of the talent demand from the business, industry, and government sectors.
 
 But most Ph.D. students end up working in the business, industry, and government sectors.
 
