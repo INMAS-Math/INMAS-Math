@@ -50,7 +50,7 @@ Associate Director - Internship Network in the Mathematical Sciences (INMAS)
 <br> Johns Hopkins University
 
 ## For the Midwest region
-### Richard Laugensen
+### Richard Laugesen
 Professor
 <br> Department of Mathematics
 <br> Univertity of Illinois at Urbana-Champaign
