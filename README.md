@@ -12,9 +12,9 @@ Doctorate programs in many disciplines often do not provide role models beyond b
 
 But most Ph.D. students end up working in the business, industry, and government sectors with little to no support to find their own career path.
 
-Therefore, the INMAS initiative was proposed to address this issue by providing additional professional training and an industrial internship program for graduate students.
+Therefore, the INMAS initiative was proposed to address this issue by providing additional professional training and an industrial internship program for graduate students, ensuring a softer landing to the labor market.
 
-# How does INMAS achieves its goals?
+# How does INMAS achieve its goals?
 Along these three principal activities:
 1) By providing direct resources to build and maintain a sustainable network of stakeholders from universities, businesses, industries, and government agencies;
 2) By better preparing graduate students for the job market with training activities specific to key economic sectors and complementary to their core disciplinary training;
