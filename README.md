@@ -5,7 +5,7 @@ INMAS is a network of universities, businesses, industries, and organizations wi
 - help (regional) organizations leverage young talents in local universities;
 - increase collaborations between business, industry, and government (BIG) and academia through a robust network of organizations and institutions,
 
-and with a passion for diversity, equity, and inclusion.
+...and with a passion for diversity, equity, and inclusion.
 
 # Why INMAS?
 Doctorate programs in many disciplines often do not provide role models beyond being research academicians, and many scientific graduate programs lack a practical view of the talent demand from the business, industry, and government sectors.
