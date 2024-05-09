@@ -55,7 +55,7 @@ Professor
 <br> Department of Mathematics
 <br> Univertity of Illinois at Urbana-Champaign
 
-### Luke Leisman
+### Jesse Christian
 Associate Director - Internship Network in the Mathematical Sciences (INMAS)
 <br> Department of Mathematics
 <br> University of Illinois at Urban-Champaign
