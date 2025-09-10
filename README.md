@@ -33,7 +33,7 @@ This program is supported by the National Science Foundation, the Johns Hopkins 
 Thank you all for your support!
 
 # How long has this program been running?
-We are currently in our 4th year.
+The program saw its final year in 2025.  Look [here](github.com/INMAS-Math/INMAS-Math.github.io) for a summary of our results and findings through the program, and for links to resources used.
 
 ### Encouragements to our fourth Cohort 👋
 
